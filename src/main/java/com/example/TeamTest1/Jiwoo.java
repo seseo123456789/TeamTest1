@@ -1,6 +1,8 @@
 package com.example.TeamTest1;
 
 
+import java.sql.SQLOutput;
+
 public class Jiwoo {
     //1번
 
@@ -9,5 +11,5 @@ public class Jiwoo {
     //3번
 
     //4번
-
+    int ej = 50;
 }
