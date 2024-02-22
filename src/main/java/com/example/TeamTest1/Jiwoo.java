@@ -9,7 +9,7 @@ public class Jiwoo {
     //2번
     String mj = "";
     //3번
-    char song = 'ㅋ';
+    String song = "노래";
 
     //4번
     int ej = 50;
